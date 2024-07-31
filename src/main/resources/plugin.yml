@@ -1,0 +1,22 @@
+name: PunishLite
+version: '${project.version}'
+main: com.dank1234.punish.Main
+api-version: '1.20'
+prefix: Punish
+load: STARTUP
+authors: [dank1234]
+description: A full punishments plugin!
+website: punishlite.dank1234.com
+
+commands:
+  kick:
+  warn:
+  mute:
+  unmute:
+  ban:
+  unban:
+  hist:
+  history:
+  prune:
+  prunehist:
+  prunehistory:
